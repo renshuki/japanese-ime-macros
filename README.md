@@ -5,6 +5,7 @@ Japanese IME User Dictionary Tool for business emails. Don't waste your time wri
 
  - Download __japanese-ime-macros.txt__
  - Import the file into IME User Dictionary Tool
+ ![Import IME Dictionary](https://fcbrossard.net/assets/ime-import-dic-en.png)
  - Use it!
 
 ## Available macros
